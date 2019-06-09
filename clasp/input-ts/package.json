@@ -1,0 +1,16 @@
+{
+  "name": "typescript-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "clasp push"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@types/google-adwords-scripts": "^1.0.3",
+    "@types/google-apps-script": "0.0.53"
+  }
+}
