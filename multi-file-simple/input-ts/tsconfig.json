@@ -1,7 +1,8 @@
 {
   "compilerOptions": {
     "target": "es3",
-    "module": "system",
+    "module": "none",
+    "outDir": "../output-gs",
     "strict": true,
   }
 }

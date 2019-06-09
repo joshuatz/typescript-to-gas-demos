@@ -1,3 +1,5 @@
+"use strict";
+// import 'google-apps-script'
 function test() {
     // call alpha before it is defined - in this file
     alpha();

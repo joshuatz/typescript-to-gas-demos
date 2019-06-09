@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "target": "es3",
+    "module": "none",
+    "outFile": "../output-gs/compiled.gs",
+    "strict": true
+  }
+}
